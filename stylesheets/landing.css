@@ -20,13 +20,16 @@
 /**********************************
 MAIN CONTENT
 ***********************************/
+.thumbnail{
+    background-image:url(http://www.justinmaller.com/img/projects/wallpaper/WP_Encrusted_VI-2560x1440_00000.jpg);
+
+}
 .thumbnail_space{
-    background:url ();
-    max-width:90%;
     margin:0 auto;
 }
 
 .thumbnail_image{
+ 
   max-height:200px;
   max-width:242px;
 }
