@@ -6,7 +6,7 @@
 .jumbotron{
     text-align:center;
     margin-bottom:10px;
-    height:450px;
+    height:500px;
     padding-top:50px;
 }
 
@@ -21,15 +21,15 @@
 MAIN CONTENT
 ***********************************/
 .thumbnail{
-    background-image:url(http://www.justinmaller.com/img/projects/wallpaper/WP_Encrusted_VI-2560x1440_00000.jpg);
-
+    max-width:120%;
+    margin:1 auto;
 }
 .thumbnail_space{
+    max-width:90%;
     margin:0 auto;
 }
 
 .thumbnail_image{
- 
   max-height:200px;
   max-width:242px;
 }
@@ -68,11 +68,9 @@ FONTS
 }
 
 
-html {
-    background-image: url('http://www.justinmaller.com/img/projects/wallpaper/WP_Cirrus-Ohs-2560x1440_00134.jpg');
-background-color:#0062FF;
+
     
-}
+
 
 
 article {
@@ -84,15 +82,14 @@ footer {
 }
 
 .jumbotron{
-  background: url('http://www.justinmaller.com/img/projects/wallpaper/WP_Reso-2560x1440_00049.jpg') no-repeat center;
+  background: url('http://i1318.photobucket.com/albums/t653/eliasduarte81/Chicago%20Dawn_zpsarizpibr.jpg') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 }
-
-body {
-  background-image: url('http://www.justinmaller.com/img/projects/wallpaper/WP_Cirrus-Ohs-2560x1440_00134.jpg');
-  
+body{
+    background-color:#5EA2B1;
 }
+
